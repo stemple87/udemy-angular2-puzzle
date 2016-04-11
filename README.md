@@ -1,8 +1,31 @@
-# Angular 2 Beta Boilerplate
+# _Angular2 puzzle_
+
+#### _Guess random 1s and 0s_
+
+#### By _**Simon Temple**_
 
 ## Description
-This repository acts as a very simple Angular 2 Beta Boilerplate with which you can get started developing Angular 2 immediately.
-It is derived from the official Angular 2 Documentation which can be found [here](https://angular.io/docs/ts/latest/quickstart.html).
+
+_This is a simple puzzle game using angular2 that involves guessing a 1 or a 0._
+
+## Known Bugs
+
+_None known_
+
+## Support and contact details
+
+_You can contact me at simonctemple@live.com or at my github profile https://github.com/stemple87_
+
+## Technologies Used
+
+_This app is made using Angular2 and Node.js_
+
+### License
+
+
+Copyright (c) 2015 **_Simon Temple_**
+
+
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 
